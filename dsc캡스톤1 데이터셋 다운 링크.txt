@@ -1,0 +1,10 @@
+[데이터셋 다운링크]
+
+MOCAP_A
+https://app.roboflow.com/ds/hZ0H9hBCUf?key=auWDZr0bfD
+
+MOCAP_B v1
+https://app.roboflow.com/ds/ZUiNI6FoOY?key=LDIEnfgvG6
+
+MOCAP_B v2
+https://app.roboflow.com/ds/7QzGiKVgWi?key=g0hZHJ8RzD
