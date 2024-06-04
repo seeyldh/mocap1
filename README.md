@@ -3,11 +3,14 @@
 ## A Study on the Performance Improvement of Human Object Detection Model in Marine Environment Based on YOLOv8  
 
 
+<img src = 'https://github.com/seeyldh/mocap1/blob/main/%EC%BA%A1%EC%8A%A4%ED%86%A41%20%ED%8F%AC%EC%8A%A4%ED%84%B0%20v.4.png'>  
+
+
 ### Authors
 Dahee Lim<sup>1</sup>, Eunjae Yoo<sup>1</sup>, Jihun Park<sup>2</sup>  
 
 Department of Mobility SW/AI Convergence, Daejeon·Sejong·Chungnam(DSC) Platform University<sup>1</sup>  
-Department of Artificial Intelligence, Chungnam National University<sup>2</sup>
+Department of Artificial Intelligence, Chungnam National University<sup>2</sup>  
 
 
 
@@ -55,4 +58,4 @@ Happy coding!🌝
   
   
 
-<img src = 'https://github.com/seeyldh/mocap1/blob/main/%EC%BA%A1%EC%8A%A4%ED%86%A41%20%ED%8F%AC%EC%8A%A4%ED%84%B0%20v.4.png'>
+
