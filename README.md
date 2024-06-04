@@ -35,7 +35,7 @@ This repository contains the code and additional materials for the research on i
 
 
 
-#### References
+### References
 
 [1] "[강원포럼]강릉해양경찰서 설립 서둘러야", https://www.kwnews.co.kr/page/view/2024032519345485534 (accessed Apr, 8. 2024)  
 [2] "120명이 할일 '홀로' 해냈다, 67명 실종자 찾은 드론의 비밀", https://www.joongang.co.kr/article/25110437#home (accessed Apr, 9. 2024)  
