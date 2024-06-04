@@ -1,13 +1,13 @@
-## YOLOv8 기반 해양 환경에서의 사람 객체 탐지 모델 성능 향상 연구 🔬🌊
+## YOLOv8 기반 해양 환경에서의 사람 객체 탐지 모델 성능 향상 연구 🔬🌊  
 
-## A Study on the Performance Improvement of Human Object Detection Model in Marine Environment Based on YOLOv8
+## A Study on the Performance Improvement of Human Object Detection Model in Marine Environment Based on YOLOv8  
 
 
 ### Authors
-- Dahee Lim<sup>1</sup>, Eunjae Yoo<sup>1</sup>, Jihun Park<sup>2</sup>  
+Dahee Lim<sup>1</sup>, Eunjae Yoo<sup>1</sup>, Jihun Park<sup>2</sup>  
 
- Department of Mobility SW/AI Convergence, Daejeon·Sejong·Chungnam(DSC) Platform University<sup>1</sup>
- Department of Artificial Intelligence, Chungnam National University<sup>2</sup>
+Department of Mobility SW/AI Convergence, Daejeon·Sejong·Chungnam(DSC) Platform University<sup>1</sup>  
+Department of Artificial Intelligence, Chungnam National University<sup>2</sup>
 
 
 
@@ -36,23 +36,23 @@ This repository contains the code and additional materials for the research on i
 
 
 #### References
-<small>
+
 [1] "[강원포럼]강릉해양경찰서 설립 서둘러야", https://www.kwnews.co.kr/page/view/2024032519345485534 (accessed Apr, 8. 2024)  
 [2] "120명이 할일 '홀로' 해냈다, 67명 실종자 찾은 드론의 비밀", https://www.joongang.co.kr/article/25110437#home (accessed Apr, 9. 2024)  
 [3] 오준석, 신오순. "사이드 스캔 소나 이미지를 이용한 해양 침적 쓰레기 객체 인식 및 분류 기법." 한국통신학회 학술대회논문집, Feb 2021.  
 [4] Golnaz Ghiasi, Yin Cui, Aravind Srinivas, Rui Qian, Tsung-Yi Lin, Ekin D. Cubuk, Quoc V. Le, Barret Zoph, “Simple Copy-Paste Is a Strong Data Augmentation Method for Instance Segmentation” IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021, pp. 2918-2928  
 [5] https://seadronessee.cs.uni-tuebingen.de/  
-</small>
+
 
 
 
 
 ### Conclusion
 Thank you for your interest and support!
-Happy coding!🌝
-
-
-
-
+Happy coding!🌝  
+  
+  
+  
+  
 
 <img src = 'https://github.com/seeyldh/mocap1/blob/main/%EC%BA%A1%EC%8A%A4%ED%86%A41%20%ED%8F%AC%EC%8A%A4%ED%84%B0%20v.4.png'>
